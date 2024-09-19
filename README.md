@@ -6,5 +6,5 @@
  - [Fast Fetch](https://github.com/fastfetch-cli/fastfetch)
  - [Polybar](https://github.com/polybar/polybar)
 
-## Artix
+## Fedora
 [Fedora](https://fedoraproject.org/atomic-desktops/budgie/download) Budgie Atomic 40

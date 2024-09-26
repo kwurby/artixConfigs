@@ -8,3 +8,6 @@
 
 ## Fedora
 [Fedora](https://fedoraproject.org/atomic-desktops/kinoite/) Plasma kinoite 40
+
+## theme
+Kanagawa (Gogh)

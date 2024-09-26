@@ -7,4 +7,4 @@
  - [Polybar](https://github.com/polybar/polybar)
 
 ## Fedora
-[Fedora](https://fedoraproject.org/atomic-desktops/budgie/download) Budgie Atomic 40
+[Fedora](https://fedoraproject.org/atomic-desktops/kinoite/) Plasma kinoite 40
